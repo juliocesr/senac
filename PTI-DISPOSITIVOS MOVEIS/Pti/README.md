@@ -10,7 +10,8 @@ Este é um projeto simples desenvolvido em React Native para criar um cardápio 
 
 # Como Executar o Projeto
 ## Clone o repositório:
-- git clone https://github.com/juliocesr/PTI-DISPOSITIVOS
+- git clone https://github.com/juliocesr/senac/PTI-DISPOSITIVOS MOVEIS/Pti
+- 
 # Instale as dependências:
 - cd nome-do-repositorio
 - npm install
